@@ -29,7 +29,8 @@ avatar: "/img/avatar-icon.jpg"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://sanjeevraghav.com"
+  
+# Author's home: "http://sanjeevraghav.com"
   
 # --- Footer options --- #
 
