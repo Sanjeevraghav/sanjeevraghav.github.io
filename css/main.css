@@ -410,3 +410,19 @@ header.header-post .post-heading .post-subheading {
 .blog-post table tr td :last-child {
   margin-bottom: 0;
 }
+
+.index-posts-title {
+  font-weight: 800;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 38px;
+}
+@media only screen and (min-width: 768px) {
+  .index-posts-title {
+    margin-top: 10px;
+    font-size: 45px;
+  }
+}
+
+
+
+
