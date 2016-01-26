@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Sanjeev Raghav
+title: sanjeev raghav
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: this is all about my self!
 
 # --- Navigation bar options --- #
 
@@ -36,7 +36,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Sanjeev Raghav
+  name: sanjeev raghav
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
